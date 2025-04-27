@@ -1,4 +1,4 @@
-<img src="https://github.com/lopeztanya033/lopeztanya033/blob/main/Fondo_TanyaLopez.jpg" style="height: 100% , width:100%">
+<img src="https://github.com/lopeztanya033/lopeztanya033/blob/main/Fondo_TanyaLopez.png" style="height: 100% , width:100%">
 
 
 <h1 align="center">Hola 👋, soy Tanya Lopez Mestanza </h1>
