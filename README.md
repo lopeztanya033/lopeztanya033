@@ -29,7 +29,7 @@
 ---
 ## 🌟 Proyectos Claves:
 
-[seleccion de Mwjores clientes plicacoin Tecnica RFM ]) (https://github.com/lopeztanya033/Selecccion-de-Mejores-Clientes)
+[seleccion de Mwjores clientes plicacoin Tecnica RFM ]) (https://github.com/lopeztanya033/Selecccion-de-Mejores-Clientes-)
 <!-- - **[Proyecto de análisis predictivo de éxito en videojuegos](https://github.com/Marlon3010/analisis_predictivo_videojuegos)** -->
 <!-- - **[Proyecto de optimización de los gastos de marketing](https://github.com/Marlon3010/optimizacion_gastos_marketing)**--> 
 <!-- - **[Proyecto de comportamiento del usuario en un test A/B](https://github.com/Marlon3010/comportamiento_test_A_B)** -->
