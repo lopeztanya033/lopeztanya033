@@ -26,41 +26,10 @@
   
 
 </p>
-
----
-
-##  🌟  Proyectos:
-
-<h4>1. Todo app using ReactJS </h4>
-
-<a href="https://ravisolanki27.github.io/React-Project/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/todo.png" ></a>
-
-
-<h4>2. Random Quote generator using NodeJs </h4>
-
-<a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/qoutegenerator.png" ></a>
-
----
-
-<h1 align="center">BLOGS</h1>
-<a href="https://www.linkedin.com/pulse/what-5-things-you-must-do-your-first-paycheck-raviraj-solanki/" target="blank">
-<img src="https://media-exp1.licdn.com/dms/image/C4D12AQHVBf5FWRnp0w/article-cover_image-shrink_720_1280/0/1638538607562?e=1649289600&v=beta&t=nsF1Hf0YkmXip-kGt031yqNAHaOD3TkuNSl4hVwF52c" ></a>
-
-
----
-
-<h1 align="center">SOCIAL</h1>
-
-<div align="center">
-</div>
-
----
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
-
 ---
 ## 🌟 Proyectos Claves:
 
-<!--  **[seleccion de Mwjores clientes plicacoin Tecnica RFM ](https://github.com/Marlon3010/analisis_datos_tarifas)** -->
+[seleccion de Mwjores clientes plicacoin Tecnica RFM ]) (https://github.com/lopeztanya033/Selecccion-de-Mejores-Clientes)
 <!-- - **[Proyecto de análisis predictivo de éxito en videojuegos](https://github.com/Marlon3010/analisis_predictivo_videojuegos)** -->
 <!-- - **[Proyecto de optimización de los gastos de marketing](https://github.com/Marlon3010/optimizacion_gastos_marketing)**--> 
 <!-- - **[Proyecto de comportamiento del usuario en un test A/B](https://github.com/Marlon3010/comportamiento_test_A_B)** -->
