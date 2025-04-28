@@ -22,12 +22,14 @@
 <img src="https://skillicons.dev/icons?i=dotnet" style="height: 4rem; background-color:white"/>
 
 </p>
----
+
 ## 🔧 Proyectos Claves:
 
-[seleccion de Mwjores clientes plicacoin Tecnica RFM ]) (https://github.com/lopeztanya033/Selecccion-de-Mejores-Clientes-)
-[Proyecto de Analisis de los casos de Terremoto. Cllustrizacoin utilizando -means ](https://github.com/lopeztanya033/Caso-Estudio-Terremotos-)
-[Proyecto de análisis Comercio Minorista - Clustrizacion  ( https://github.com/lopeztanya033/Clusterizacion-Clientes-de-Comercio-Minorista)
+[selección de Mejores clientes. Aplicación Técnica RFM ]) (https://github.com/lopeztanya033/Selecccion-de-Mejores-Clientes-)
+
+[Análisis de los casos de Terremoto. Clusterización utilizando k-means ]  (https://github.com/lopeztanya033/Caso-Estudio-Terremotos-)
+
+[Análisis Comercio Minorista - Clusterización ] ( https://github.com/lopeztanya033/Clusterizacion-Clientes-de-Comercio-Minorista)
 <!-- - **[Proyecto de comportamiento del usuario en un test A/B](https://github.com/Marlon3010/comportamiento_test_A_B)** -->
 <!-- - **[Proyecto basado en clientes sobre datos analíticos para una estrategia de retención de clientes](https://github.com/Marlon3010/estrategia_retencion_clientes)**  -->
 
