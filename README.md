@@ -40,7 +40,7 @@
 
 ## 📬 Contactame:
 
-* **Email:** lopeztanya033@gmail.com
+* **Email:**   [tanya.lopez@integritysolutions.com.ec]
 
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tanya-lopez-mestanza-analistadatos/)
 
