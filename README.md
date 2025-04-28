@@ -21,17 +21,13 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" style="height: 4rem; background-color:white"/>
 <img src="https://skillicons.dev/icons?i=dotnet" style="height: 4rem; background-color:white"/>
 
-
-
-  
-
 </p>
 ---
-## 🌟 Proyectos Claves:
+## 🔧 Proyectos Claves:
 
 [seleccion de Mwjores clientes plicacoin Tecnica RFM ]) (https://github.com/lopeztanya033/Selecccion-de-Mejores-Clientes-)
-<!-- - **[Proyecto de análisis predictivo de éxito en videojuegos](https://github.com/Marlon3010/analisis_predictivo_videojuegos)** -->
-<!-- - **[Proyecto de optimización de los gastos de marketing](https://github.com/Marlon3010/optimizacion_gastos_marketing)**--> 
+[Proyecto de Analisis de los casos de Terremoto. Cllustrizacoin utilizando -means ](https://github.com/lopeztanya033/Caso-Estudio-Terremotos-)
+[Proyecto de análisis Comercio Minorista - Clustrizacion  ( https://github.com/lopeztanya033/Clusterizacion-Clientes-de-Comercio-Minorista)
 <!-- - **[Proyecto de comportamiento del usuario en un test A/B](https://github.com/Marlon3010/comportamiento_test_A_B)** -->
 <!-- - **[Proyecto basado en clientes sobre datos analíticos para una estrategia de retención de clientes](https://github.com/Marlon3010/estrategia_retencion_clientes)**  -->
 
