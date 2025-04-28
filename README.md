@@ -2,7 +2,8 @@
 
  <div id="header" align="left">
 
- ## 🔧 Algo sobre mí ?:
+ 
+### :man_technologist: Algo sobre mí ?:
 <h1 align="center">Hola 👋, soy Tanya Lopez Mestanza </h1> 
 <h2 align="center"> Soy Ingeniera de Sistemas  especializado en desarrollo de sistemas y con una base en procesos de negocio.  </h2>
 <h2 align="left">Estoy profundizando mis conocimientos en DATA SCIENCE a través de un diplomado.  Mi objetivo más próximo es aplicar mis habilidades analíticas y técnicas a este apasionante campo, contribuyendo al descubrimiento de insights valiosos a partir de grandes volúmenes de datos </h2>
@@ -11,9 +12,9 @@
  ## 🔧 Estudios :
 - 🔭 I’m currently working on [Portfolio website]()
 
-- 🌱Actualmente estudio un Diplomado De cientifico de Datos en S E E  (Sociedad Etadisitica Ecuatoriana)*
-
-- 📫 How to reach me **lopeztanya033@gmail.com**
+- 🌱 Ingeniera de Sistemas- Uiversidad Católica.
+- 🌱 Maestría en Sistemas de Información Gerencial -ESPOL Registro SENACYT: 1021-2019-214532
+- 🌱 Actualmente estudio un Diplomado De cientifico de Datos en S E E  (Sociedad Etadisitica Ecuatoriana)*
 
 ---
 ## 🔧 Habilidades & Tecnologías:
@@ -25,7 +26,7 @@
 
 </p>
 
-## 🔧 Proyectos Claves:
+##  🌟  Proyectos Claves:
 
   - [selección de Mejores clientes. Aplicación Técnica RFM ]) (https://github.com/lopeztanya033/Selecccion-de-Mejores-Clientes-)
 
@@ -44,6 +45,8 @@
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tanya-lopez-mestanza-analistadatos/)
 
 * **GitHub:** [GitHub Profile](https://github.com/lopeztanya033/lopeztanya033)
+  
+* **Celular** [0959552530]
 
 Credit: [Tanya Lopez ](https://github.com/lopeztanya033)
 Last Edited on: 22/04/2025
