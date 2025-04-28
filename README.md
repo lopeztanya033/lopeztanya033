@@ -2,8 +2,8 @@
 
 
 <h1 align="center">Hola 👋, soy Tanya Lopez Mestanza </h1>
-<h3 align="center">Soy Ingeniera de Sistemas  especializado en desarrollo de sistemas y con una base en procesos de negocio.</h3>
-<h3 align="center">Estoy profundizando mis conocimientos en DATA SCIENCE a través de un diplomado.  Mi objetivo más próximo es aplicar mis habilidades analíticas y técnicas a este apasionante campo, contribuyendo al descubrimiento de insights valiosos a partir de grandes volúmenes de datos</h3>
+<h2 align="center">Soy Ingeniera de Sistemas  especializado en desarrollo de sistemas y con una base en procesos de negocio.</h4>
+<h2 align="left">Estoy profundizando mis conocimientos en DATA SCIENCE a través de un diplomado.  Mi objetivo más próximo es aplicar mis habilidades analíticas y técnicas a este apasionante campo, contribuyendo al descubrimiento de insights valiosos a partir de grandes volúmenes de datos</h4>
 
 ---
 
@@ -25,11 +25,11 @@
 
 ## 🔧 Proyectos Claves:
 
-[selección de Mejores clientes. Aplicación Técnica RFM ]) (https://github.com/lopeztanya033/Selecccion-de-Mejores-Clientes-)
+  - [selección de Mejores clientes. Aplicación Técnica RFM ]) (https://github.com/lopeztanya033/Selecccion-de-Mejores-Clientes-)
 
-[Análisis de los casos de Terremoto. Clusterización utilizando k-means ]  (https://github.com/lopeztanya033/Caso-Estudio-Terremotos-)
+  - [Análisis de los casos de Terremoto. Clusterización utilizando k-means ]  (https://github.com/lopeztanya033/Caso-Estudio-Terremotos-)
 
-[Análisis Comercio Minorista - Clusterización ] ( https://github.com/lopeztanya033/Clusterizacion-Clientes-de-Comercio-Minorista)
+  - [Análisis Comercio Minorista - Clusterización ] ( https://github.com/lopeztanya033/Clusterizacion-Clientes-de-Comercio-Minorista)
 <!-- - **[Proyecto de comportamiento del usuario en un test A/B](https://github.com/Marlon3010/comportamiento_test_A_B)** -->
 <!-- - **[Proyecto basado en clientes sobre datos analíticos para una estrategia de retención de clientes](https://github.com/Marlon3010/estrategia_retencion_clientes)**  -->
 
