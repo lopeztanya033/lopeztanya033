@@ -33,8 +33,10 @@
   - [Análisis de los casos de Terremoto. Clusterización utilizando k-means ]  (https://github.com/lopeztanya033/Caso-Estudio-Terremotos-)
 
   - [Análisis Comercio Minorista - Clusterización ] ( https://github.com/lopeztanya033/Clusterizacion-Clientes-de-Comercio-Minorista)
-<!-- - **[Proyecto de comportamiento del usuario en un test A/B](https://github.com/Marlon3010/comportamiento_test_A_B)** -->
-<!-- - **[Proyecto basado en clientes sobre datos analíticos para una estrategia de retención de clientes](https://github.com/Marlon3010/estrategia_retencion_clientes)**  -->
+    
+  - [Análisis Exploratorio de Vinos ]  (  https://github.com/lopeztanya033/Analisis-Exploratio-Vinos)
+    
+   - [ Clusterización Casos Prácticos ]   (https://github.com/lopeztanya033/Talleres-Clustering-Euclidiana-Manhattan-y-Coseno-))**  -->
 
 ---
 
