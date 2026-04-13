@@ -38,6 +38,7 @@
     
    - [ Clusterización Casos Prácticos ]   (https://github.com/lopeztanya033/Talleres-Clustering-Euclidiana-Manhattan-y-Coseno-))**  -->
 
+  - [ Salud Mental de los JOvenes que consumen Redes Sociales]  (https://github.com/lopeztanya033/Salud-Mental-Usuarios-redes-Sociales)   
 ---
 
 ## 📬 Contactame:
