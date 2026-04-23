@@ -23,6 +23,8 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Light.svg" style="height: 4rem; background-color:white"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" style="height: 4rem; background-color:white"/>
 <img src="https://skillicons.dev/icons?i=dotnet" style="height: 4rem; background-color:white"/>
+<img src="https://github.com/user-attachments/assets/4a46893b-c978-4058-897c-6d7211c654ae" style="height: 4rem; background-color:white" />
+
 
 </p>
 
@@ -38,7 +40,9 @@
     
    - [ Clusterización Casos Prácticos ]   (https://github.com/lopeztanya033/Talleres-Clustering-Euclidiana-Manhattan-y-Coseno-))**  -->
 
-  - [ Salud Mental de los JOvenes que consumen Redes Sociales]  (https://github.com/lopeztanya033/Salud-Mental-Usuarios-redes-Sociales)   
+  - [ Salud Mental de los JOvenes que consumen Redes Sociales]  (https://github.com/lopeztanya033/Salud-Mental-Usuarios-redes-Sociales)
+
+  - [Dashboard Databricks] Bakehouse ()
 ---
 
 ## 📬 Contactame:
