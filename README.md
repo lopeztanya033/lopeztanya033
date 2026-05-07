@@ -30,6 +30,8 @@
 
 ##  🌟  Proyectos Claves:
 
+  - [Análisis-de-Productos-Rentabilidad-Agencias-SKU-]) (https://github.com/lopeztanya033/Analisis-de-Productos-Rentabilidad-Agencias-SKU-)
+    
   - [selección de Mejores clientes. Aplicación Técnica RFM ]) (https://github.com/lopeztanya033/Selecccion-de-Mejores-Clientes-)
 
   - [Análisis de los casos de Terremoto. Clusterización utilizando k-means ]  (https://github.com/lopeztanya033/Caso-Estudio-Terremotos-)
